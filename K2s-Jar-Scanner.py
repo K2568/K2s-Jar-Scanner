@@ -44,7 +44,7 @@ def main():
         if entry.endswith(".jar"):
             scan_jar(os.path.join(root_dir, entry))
 
-    format_print("Scan finished\nhttps://github.com/K2568/K2s-Jar-Scanner")
+    print("Scan finished\nhttps://github.com/K2568/K2s-Jar-Scanner")
 
 
 if __name__ == "__main__":
