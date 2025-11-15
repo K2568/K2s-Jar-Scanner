@@ -10,12 +10,12 @@ Run the python program and it will give you an output.
 
 ### Exmaple usage:
 
-effortlessbuilding  -  1.21.1  -  3.10  -  all.jar
-      flywheel  -  neoforge  -  1.21.1  -  1.0.2.jar
-      Ponder  -  NeoForge  -  1.21.1  -  1.0.46.jar
+effortlessbuilding  -  1.21.1  -  3.10  -  all.jar <br>
+      flywheel  -  neoforge  -  1.21.1  -  1.0.2.jar <br>
+      Ponder  -  NeoForge  -  1.21.1  -  1.0.46.jar <br>
 
-protection_pixel  -  2.0.2  -  forge  -  1.20.1.jar
-      No embedded mods
-      MCREATOR DETECTED
-
+protection_pixel  -  2.0.2  -  forge  -  1.20.1.jar <br>
+      No embedded mods <br>
+      MCREATOR DETECTED <br>
+ 
 <img width="616" height="116" alt="image" src="https://github.com/user-attachments/assets/b1699674-e361-43f2-8d39-1cc09ec6389b" />
