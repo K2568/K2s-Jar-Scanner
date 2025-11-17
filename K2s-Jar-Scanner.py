@@ -45,7 +45,9 @@ def main():
             scan_jar(os.path.join(root_dir, entry))
 
     print("Scan finished\nhttps://github.com/K2568/K2s-Jar-Scanner")
+    input("")
 
 
 if __name__ == "__main__":
+
     main()
